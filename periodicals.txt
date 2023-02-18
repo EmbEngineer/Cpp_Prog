@@ -1,0 +1,19 @@
+NUM_ITEMS 3
+
+Doe,John and Jane T.
+1900
+In Future of Computing Machines
+New York, New York
+233 - 247
+
+Doh, Jack and Jill M
+1950
+Advances in Computer Automation
+Los Angeles, California
+121 - 143
+
+Abbott, Larry S
+2000
+History of Computing Machines
+Houstan, Texas
+87 - 124
